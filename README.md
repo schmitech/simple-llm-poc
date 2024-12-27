@@ -188,3 +188,6 @@ If you use this project in your research or work, please cite:
   publisher = {GitHub},
   url = {https://github.com/schmitech/simple-llm-poc}
 }
+```
+
+Copyright 2024 Schmitech Inc.
